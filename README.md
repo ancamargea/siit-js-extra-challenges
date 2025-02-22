@@ -1,3 +1,3 @@
 # SIIT - WEB COMPLETE - JS EXTRA CHALLENGES
 
-Javascript excercises
+My solutions to Javascript excercises.
