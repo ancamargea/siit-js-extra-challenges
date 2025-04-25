@@ -1,0 +1,3 @@
+Din JS Course 11 - fetch:
+
+De implementat un dropdown de categorii de jokes (https://api.chucknorris.io/jokes). Cand apasam butonul de "Get joke" sa aduca o gluma din categoria selectata din dropdown menu.

@@ -1,0 +1,27 @@
+body,
+html {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+}
+
+.container {
+  text-align: center;
+  background-color: #333;
+  color: white;
+  padding: 40px;
+  border-radius: 10px;
+}
+
+#counter {
+  font-size: 48px;
+  font-weight: bold;
+  background-color: #444;
+  padding: 20px 40px;
+  border-radius: 10px;
+  margin-top: 20px;
+}
